@@ -2,10 +2,14 @@
 Docker Linux/Mac/Windows
 
 # Installation
-Linux
-
-Mac
 
 
-Windows
+#Linux
+Ubuntu
+go to https://docs.docker.com/engine/installation/linux/ubuntulinux/
+
+#Mac
+
+
+#Windows
 
